@@ -1,3 +1,6 @@
+READ THIS 
+#(MY VERSION OF DICODING BELAJAR PENGEMBANGAN WEB INTERMEDIATE, ONLY FOR MOCKUPS, NO GUARANTEE OF 5 STARS REVIEW)
+
 # App Starter Project with Webpack
 
 Proyek ini adalah setup dasar untuk aplikasi web yang menggunakan webpack untuk proses bundling, Babel untuk transpile JavaScript, serta mendukung proses build dan serving aplikasi.
